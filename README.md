@@ -16,3 +16,6 @@
 
 - Ubuntu 22.04.5(1)-2025-11-06-13-40-35.png	雷达导航第二题1小问rqt截图
 
+测试
+<a href="https://www.openai.com" target="_blank">访问OpenAI官网</a>
+
