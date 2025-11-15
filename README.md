@@ -4,7 +4,7 @@
 
 ##### 文本文件
 
-<a href="https://github.com/Coding-Jason/formal_assessment/blob/main/%E8%A7%86%E8%A7%89%E7%BB%84%E8%80%83%E6%A0%B8.md" target="_blank">视觉组考核.md</a>    存放试题原题位置
+-  <a href="https://github.com/Coding-Jason/formal_assessment/blob/main/%E8%A7%86%E8%A7%89%E7%BB%84%E8%80%83%E6%A0%B8.md" target="_blank">视觉组考核.md</a>  存放试题原题位置
 - 视觉组考核.md		
 
 
@@ -19,5 +19,6 @@
 
 测试
 <a href="https://www.openai.com" target="_blank">访问OpenAI官网</a>
+
 
 
